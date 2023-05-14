@@ -1,0 +1,5 @@
+Laravel Installation:
+I haven't faced any difficulties installing the latest version of Laravel.
+I installed Laravel using Composer. I used the command 'composer create-project laravel/laravel myapp' to create my Laravel project.
+That's it.
+I also have attached the screenshots of the my project.
